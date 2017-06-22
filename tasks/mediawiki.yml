@@ -76,6 +76,7 @@
   with_items:
     - cache
     - uploads
+    - images
 
 - name: enable scl php55
   file:
