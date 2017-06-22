@@ -121,4 +121,4 @@ mediawiki_custom_lines:
   - "# speed improvements"
   - $wgUseGzip = true;
 
-mediawiki_debug: true
+mediawiki_debug: false
